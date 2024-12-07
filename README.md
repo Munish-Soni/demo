@@ -1,2 +1,1 @@
-This is a demo README file.
-Merge conflic.
+This is a demo README file for development.
